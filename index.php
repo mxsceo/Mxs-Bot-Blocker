@@ -6,7 +6,7 @@ $telegramApiKey = '6550516522:AAEDzog8OdEJE8z1QUQFZx9bd2hLgnFul3o';
 $chatId = '-4060109585';
 
 // Clé d'API pro de ip-api
-$ipApiKey = 'UX5uCXcQ7oWOlxu';
+$ipApiKey = '';
 
 
 // Fonction pour obtenir l'adresse IP réelle à partir des en-têtes Cloudflare
